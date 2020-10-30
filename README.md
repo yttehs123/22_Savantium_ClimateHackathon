@@ -1,1 +1,1 @@
-# Savantium_Goethe_ClimateHackathon
+# Savantium Goethe ClimateHackathon
